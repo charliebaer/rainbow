@@ -1,4 +1,6 @@
-colours in my rainbow,
+colours in my rainbow,and a unicorn
+
+contents:
 
 
 blue
@@ -7,3 +9,4 @@ green
 red
 yellow
 pink
+Unicorn
